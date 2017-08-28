@@ -1,0 +1,9 @@
+body{
+  color: lightgrey;
+    background: url(http://www.planwallpaper.com/static/images/background-presentations-powerpoint-backgrounds.jpg);
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

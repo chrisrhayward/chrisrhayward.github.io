@@ -1,3 +1,7 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
 body {
   color: lightgrey;
   background-color: #5B5B5B;

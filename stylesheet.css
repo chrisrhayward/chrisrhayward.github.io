@@ -13,12 +13,13 @@ footer {
   bottom: 0;
   margin-left: 600px;
 }
-a {
+footer a {
   color: lightgrey;
   text-decoration: none;
 }
-a :hover {
+footer a :hover {
   color: lightgrey;
+  text-decoration: none;
 }
 .flex-container {
   width: auto;

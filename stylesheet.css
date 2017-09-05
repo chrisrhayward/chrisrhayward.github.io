@@ -17,7 +17,7 @@ a :hover {
   color: lightgrey;
 }
 .flex-container {
-  width: 100vh;
+  width: auto;
 }
 #main-text {
   display: flex;

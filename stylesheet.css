@@ -16,6 +16,9 @@ a {
 a :hover {
   color: lightgrey;
 }
+.flex-container {
+  width: 100vh;
+}
 #main-text {
   display: flex;
   align-items: center;

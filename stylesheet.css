@@ -25,6 +25,7 @@ a :hover {
   flex-direction: row;
   flex-wrap: wrap;
   padding-top: 50px;
+  border-color: #FFFFFF
 }
 #primary_nav_wrap
 {

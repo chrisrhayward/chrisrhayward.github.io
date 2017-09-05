@@ -23,6 +23,7 @@ a :hover {
   display: flex;
   align-items: center;
   flex-direction: column;
+  flex-wrap: wrap;
   padding-top: 50px;
 }
 #primary_nav_wrap

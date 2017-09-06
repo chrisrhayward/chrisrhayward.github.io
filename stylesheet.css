@@ -18,32 +18,33 @@ footer a {
   color: lightgrey;
   text-decoration: none;
 }
-footer a :hover {
-  color: lightgrey;
-  text-decoration: none;
-}
 .flex-container {
   width: auto;
 }
 #main-text {
   display: flex;
   align-items: center;
-  flex-direction: row;
+  flex-flow: column;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   padding-top: 5%;
-  margin-right: 15%;
+  margin-right: 5%;
+}
+header::after {
+  content: "";
+  display: block;
+  clear: both;
 }
 #primary_nav_wrap
 {
-	margin-top:15px
+	margin-top:1em;
 }
 
 #primary_nav_wrap ul
 {
 	list-style:none;
 	position:relative;
-	float:left;
+	/*float:left;*/
 	margin:0;
 	padding:0
 }

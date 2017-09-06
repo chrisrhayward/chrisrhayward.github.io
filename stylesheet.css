@@ -41,7 +41,7 @@ a:hover {
   font-size: 1em;
 }
 #main-text h1 {
-  font-size: 3rem;
+  font-size: 3em;
 }
 header::after {
   content: "";

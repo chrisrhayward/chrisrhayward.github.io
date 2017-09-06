@@ -12,7 +12,7 @@ footer {
   text-align: center;
   position: fixed;
   bottom: 0;
-  margin-left: 600px;
+  margin-left: 45%;
 }
 footer a {
   color: lightgrey;
@@ -30,7 +30,9 @@ footer a :hover {
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  padding-top: 50px;
+  justify-content: center;
+  padding-top: 5%;
+  margin-right: 15%;
 }
 #primary_nav_wrap
 {
@@ -55,7 +57,6 @@ footer a :hover {
 	font-size:12px;
 	line-height:32px;
 	padding:0 15px;
-	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
 #primary_nav_wrap ul li
@@ -89,13 +90,13 @@ footer a :hover {
 #primary_nav_wrap ul ul li
 {
 	float:none;
-	width:200px
+	width:75px
 }
 
 #primary_nav_wrap ul ul a
 {
 	line-height:120%;
-	padding:10px 15px
+	padding:10px 15px;
 }
 
 #primary_nav_wrap ul ul ul

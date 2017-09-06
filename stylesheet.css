@@ -8,7 +8,7 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 footer {
-  font-size: 12px;
+  font-size: 0.75em;
   text-align: center;
   position: fixed;
   bottom: 0;
@@ -30,6 +30,10 @@ footer a {
   justify-content: flex-start;
   padding-top: 5%;
   margin-right: 5%;
+  font-size: 1em;
+}
+#main-text h1 {
+  font-size: 3rem;
 }
 header::after {
   content: "";

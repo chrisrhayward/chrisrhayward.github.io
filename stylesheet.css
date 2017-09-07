@@ -39,6 +39,9 @@ a:hover {
   margin-right: 5%;
   font-size: 1rem;
 }
+#main-text p {
+  text-align: center;
+}
 #main-text h1 {
   font-size: 2rem;
 }
